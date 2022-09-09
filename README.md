@@ -52,8 +52,5 @@ And in the end, we will be displaying the scores using the show_score function c
 
 ## Sample Picture Of Project
 
-<img src='./images/final-screen-snake-game.png'>picture of snake Game</img>
+<img src='./images/mainPic.png'>picture of snake Game</img>
 
-## sample vedio of Project
-
-<img src='./images/point-1.gif'></img>
